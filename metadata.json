@@ -1,0 +1,6 @@
+{
+  "name": "Ruang Malam",
+  "description": "Ruang santai, refleksi, fokus, dan perencanaan malam hari yang tenang dan produktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
